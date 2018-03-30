@@ -23,3 +23,6 @@
 
 ![](https://github.com/JuliaBukhtiyarova/hw6/blob/master/estimate%20evaluate.jpg)
 ![](https://github.com/JuliaBukhtiyarova/hw6/blob/master/estimate%20evaluate%20final.jpg)
+### **Задание 3 (бонусное).**
+В Trends (корпус BNC) я выбрала слово *award*. На скриншотах видно, что частотность этого слова возрастает и данные Google Ngrams в целом совпадают с данными BNC:
+
