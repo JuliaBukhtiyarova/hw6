@@ -26,3 +26,7 @@
 ### **Задание 3 (бонусное).**
 В Trends (корпус BNC) я выбрала слово *award*. На скриншотах видно, что частотность этого слова возрастает и данные Google Ngrams в целом совпадают с данными BNC:
 
+![](https://github.com/JuliaBukhtiyarova/hw6/blob/master/award.jpg)
+![](https://github.com/JuliaBukhtiyarova/hw6/blob/master/award2.jpg)
+![](https://github.com/JuliaBukhtiyarova/hw6/blob/master/award%20ngram.jpg)
+Возможно, возрастающая частотность употребления слова *award* связана с появлением всё большего количества разнообразных премий в мировой культуре и науке. 
