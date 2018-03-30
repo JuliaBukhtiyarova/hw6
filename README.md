@@ -19,4 +19,7 @@
 
 ![](https://github.com/JuliaBukhtiyarova/hw6/blob/master/question.jpg)
 ### **Задание 2.**
-Для выполнения этого задания я выбрала два синонимичных глагола, обозначающих "оценивать": *estimate* и *evaluate*. Через Sketch diff я выяснила, с какими дополнениями (objects) они могут употребляться. 
+Для выполнения этого задания я выбрала два синонимичных глагола, обозначающих "оценивать": *estimate* и *evaluate*. Через Sketch diff я выяснила, с какими дополнениями (objects) они могут употребляться. Так, согласно скриншоту, можно сделать вывод, что с обоими глаголами может употребляться дополнение *effect*, дополнение *population* только с глаголом estimate, а дополнение *progress* только с глаголом evaluate:
+
+![](https://github.com/JuliaBukhtiyarova/hw6/blob/master/estimate%20evaluate.jpg)
+![](https://github.com/JuliaBukhtiyarova/hw6/blob/master/estimate%20evaluate%20final.jpg)
